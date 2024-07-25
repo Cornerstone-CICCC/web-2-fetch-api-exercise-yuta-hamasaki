@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+
+img{
+  width:100px;
+  height: auto;
+  margin-top:20px;
+}
+
+.card{
+  top:0;
+  border: 1px solid rgb(232, 228, 228);
+  border-radius: 30px;
+  margin:40px;
+  box-shadow: 1px 1px 5px rgb(225, 225, 225);
+  width: auto;
+}
+
+#tempreture{
+  font-weight: bold;
+  font-size: 50px;
+  color:rgb(79, 243, 215);
+}
+
+#windSpeed{
+  color:rgb(239, 144, 144);
+  font-size: 40px
+}
+
+#date{
+  color: rgb(228, 158, 104);
+  font-size: 20px;
+}
